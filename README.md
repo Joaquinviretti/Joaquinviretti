@@ -3,8 +3,6 @@
 <h2> I'm Joaquín Viretti</h2>
   <p> Software engeneering student && Frontend Developer </p>
 
-<hr>
-
 
 
 <!--
