@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h2> I'm Joaquín Viretti </h2>
-<p>Software Engeneering student && Frontend Developer
+<h2> I'm Joaquín Viretti <br>
+Software Engeneering student && Frontend Developer </h2>
 
 <hr>
 
